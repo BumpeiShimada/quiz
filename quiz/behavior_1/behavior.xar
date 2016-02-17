@@ -1528,7 +1528,7 @@ class MyClass(GeneratedClass):
 			"Finnish" : " Hei ",
 			"French" : " Bonjour ",
 			"Italian" : " Ciao ",
-			"Japanese" : " さて、これから試験で間違えやすい問題を出しますよ！ ",
+			"Japanese" : " さて、これから試験で間違えやすい問題を出しますよ。 ",
 			"Korean" : " 안녕하세요 ",
 			"Dutch" : " Hallo ",
 			"Norwegian" : "  ",
@@ -1578,7 +1578,7 @@ class MyClass(GeneratedClass):
                                                         <![CDATA[Ciao]]>
 </italian>
                                                     <japanese>
-                                                        <![CDATA[さて、これから試験で間違えやすい問題を出しますよ！]]>
+                                                        <![CDATA[さて、これから試験で間違えやすい問題を出しますよ。]]>
 </japanese>
                                                     <korean>
                                                         <![CDATA[안녕하세요]]>
